@@ -12,7 +12,6 @@
 - 🌱 Always exploring new technologies and frameworks
 - 💡 Love turning complex problems into elegant solutions
 - 📝 I write articles on [https://medium.com/@sanyuktarajput26](https://medium.com/@sanyuktarajput26)
-- 📫 How to reach me **sanyuktarajput26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
