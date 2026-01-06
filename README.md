@@ -8,7 +8,7 @@
 </div>
 
 ## 🚀 About Me
-- 🧠 Passionate about Machine Learning, Deep Learning, and Quantum Computing
+- 🧠 Passionate about Machine Learning, Deep Learning, and Gen AI
 - 🌱 Always exploring new technologies and frameworks
 - 💡 Love turning complex problems into elegant solutions
 - 📝 I write articles on [https://medium.com/@sanyuktarajput26](https://medium.com/@sanyuktarajput26)
