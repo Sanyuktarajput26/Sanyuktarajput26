@@ -19,7 +19,10 @@
 <a href="https://medium.com/@sanyuktarajput26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanyuktarajput26" height="30" width="40" /></a>
 </p>
 
-#Skills
+
+
+## Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
