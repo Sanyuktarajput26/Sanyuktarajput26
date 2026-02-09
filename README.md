@@ -14,7 +14,7 @@
   
 - 💡 Love turning complex problems into elegant solutions
   
-- 📝 I write articles on [https://medium.com/@sanyuktarajput26](https://medium.com/@sanyuktarajput26)
+- 📝 I write blogs on [https://medium.com/@sanyuktarajput26](https://medium.com/@sanyuktarajput26)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
